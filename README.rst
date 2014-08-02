@@ -4,6 +4,9 @@
 WebAppContext
 ========================
 
+.. image:: https://travis-ci.org/aodag/WebAppContext.svg?branch=master
+    :target: https://travis-ci.org/aodag/WebAppContext
+
 USAGE
 =======================
 
