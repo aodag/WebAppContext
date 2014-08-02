@@ -11,4 +11,5 @@ requires = [
 
 setup(name="WebAppContext",
       install_requires=requires,
+      packages=["webappcontext"],
 )
