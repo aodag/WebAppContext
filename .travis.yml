@@ -7,3 +7,5 @@ env:
 
 install:
   - pip install tox -f wheelhouse
+
+script: tox
