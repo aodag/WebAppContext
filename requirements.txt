@@ -3,6 +3,9 @@ Jinja2==2.7.3
 MarkupSafe==0.23
 SQLAlchemy==0.9.7
 WebHelpers2==2.0b5
+WebOb==1.4
+WebTest==2.0.15
+beautifulsoup4==4.3.2
 colorama==0.3.1
 cov-core==1.13.0
 coverage==3.7.1
@@ -10,6 +13,8 @@ py==1.4.22
 pytest-cov==1.7.0
 pytest==2.6.0
 pytz==2014.4
+six==1.7.3
 tox==1.7.2
 virtualenv==1.11.6
+waitress==0.8.9
 wheel==0.24.0
